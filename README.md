@@ -23,7 +23,7 @@ Atualmente, estou ampliando meus conhecimentos em desenvolvimento de sistemas e 
 
 Meu objetivo é evoluir profissionalmente na área de tecnologia, unindo minha experiência com **suporte e implantação de sistemas** aos conhecimentos adquiridos durante a graduação em ADS.
 
-Tenho interesse principalmente em **desenvolvimento de software, bancos de dados, sistemas corporativos e automação de processos**.
+Tenho interesse principalmente em **quality assurance (QA), bancos de dados, sistemas corporativos e automação de processos**.
 
 ## 📂 Projetos
 
